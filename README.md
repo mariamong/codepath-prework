@@ -1,5 +1,6 @@
 # Prework - *Code path pre work*
 
+![](https://i.imgur.com/WxwcfiD.gif)
 Submitted by: Mariam Gbadamosi
 
 This app allows user to change the color background with one click.
